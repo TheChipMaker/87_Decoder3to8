@@ -1,5 +1,5 @@
 # Decoder3to8 VHDL Project
- 
+
 ## Project Overview
 This project implements a **3-to-8 line decoder with enable input** in VHDL. The decoder has:
 
