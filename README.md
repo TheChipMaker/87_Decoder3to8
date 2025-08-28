@@ -3,6 +3,8 @@
 ## Project Overview
 This project implements a **3-to-8 line decoder with enable input** in VHDL. The decoder has:
 
+This project is **synthesizable** and suitable for **Synopsys tools**, and simulation is done using **ModelSim**.
+
 - **Inputs:**  
   - `A` : 3-bit input  
   - `EN`: Enable input  
